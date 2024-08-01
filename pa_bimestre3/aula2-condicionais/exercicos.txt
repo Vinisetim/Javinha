@@ -1,0 +1,4 @@
+Exercícios:
+
+1. Desenvolva um algoritmo que receba dois valores e imprima no console o maior deles. Usar a estrutura de decisão "IF".
+2. Desenvolva um algoritmo para imprimir na tela se o voto do(a) usúario é obrigatório, sabendo que a idade dele(a) é 18 anos
